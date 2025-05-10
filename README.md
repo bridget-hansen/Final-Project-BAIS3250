@@ -15,7 +15,7 @@ This project is for my final and consited of webscraping data, integrating dataf
 There were three main datasets used for this final project. One was the 2016 Presidental Elections reults that I obtained through scraping The New York Times Website found below. The second, was obtained through Data.gov and it describes county vehicle registrations by fuel type, the link is also below. Lastly, the third dataset was obtained through the U.S Census website, which is also found below.
 
 [https://www.nytimes.com/elections/2016/results/president]
-[https://catalog.data.gov/dataset/city-and-county-vehicle-inventories-f07a0/resource/809eba7d-8857-4431-9c5f-e88fe4506d27]
+[https://catalog.data.gov/dataset/city-and-county-vehicle-inventories-f07a0]
 [https://www.census.gov/data/datasets/time-series/demo/popest/2010s-counties-total.html]
 
 ## File Structure
